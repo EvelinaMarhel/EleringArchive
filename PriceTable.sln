@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceTable", "PriceTable\PriceTable.csproj", "{0165AF72-9F52-4A58-811C-7D24EC3CCAEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriceTable", "PriceTable.csproj", "{F55070E3-916A-4901-86E1-8799A6070F42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0165AF72-9F52-4A58-811C-7D24EC3CCAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0165AF72-9F52-4A58-811C-7D24EC3CCAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0165AF72-9F52-4A58-811C-7D24EC3CCAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0165AF72-9F52-4A58-811C-7D24EC3CCAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55070E3-916A-4901-86E1-8799A6070F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55070E3-916A-4901-86E1-8799A6070F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55070E3-916A-4901-86E1-8799A6070F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55070E3-916A-4901-86E1-8799A6070F42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {661F9462-4447-4D22-B2F6-99D8E045A941}
+		SolutionGuid = {4BA32DA0-7EE6-43E9-9094-64DBAE145C18}
 	EndGlobalSection
 EndGlobal
